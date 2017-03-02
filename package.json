@@ -1,6 +1,6 @@
 {
   "name": "webpack2-boilerplate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "app/index.js",
   "author": "rand0me",
   "license": "MIT",
