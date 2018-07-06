@@ -1,5 +1,8 @@
 webpack2-boilerplate
 ====================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/webpack2-boilerplate.svg)](https://greenkeeper.io/)
+
 webpack 2, yarn, standard, standard-version, commitizen, cz-conventional-changelog minimalist boilerplate
 ----------------------------------------------------------------------------------------------
 
